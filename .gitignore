@@ -17,6 +17,8 @@
 *.hkt.convert.log
 *.mwm.log
 *.mwm
+*.mod
+*.sbmi
 *.dds
 *.jpg
 *.ide-wal
